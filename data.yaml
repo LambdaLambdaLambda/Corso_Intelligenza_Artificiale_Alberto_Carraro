@@ -1,0 +1,6 @@
+train: ./data_for_YOLO_training/splitted/train/images
+val: ./data_for_YOLO_training/splitted/val/images
+test: ./data_for_YOLO_training/splitted/test/images
+
+nc: 2
+names: ['gallina_bianca', 'gallina_rossa']
